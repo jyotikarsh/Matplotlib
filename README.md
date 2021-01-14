@@ -1,0 +1,2 @@
+# Matplotlib
+In this project, I have used Matplotlib, one of the most famous visualizing libraries in Python.  Data visualization is one of the most prominent ways of analyzing the data. It presents visually appealing ways to detect the patterns, noise, outliers, and many other insights, which  assists the data scientists to understand, transform, and refine the data to build better comprehensive models. Here I have used Matplotlib to depict data in various forms, including 2-D and 3-D visualizations.
